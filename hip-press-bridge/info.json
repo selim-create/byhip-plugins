@@ -1,0 +1,12 @@
+{
+  "name": "Hip Space Bridge",
+  "slug": "hip-press-bridge",
+  "version": "0.2.0",
+  "download_url": "https://plugin.byhip.studio/hip-press-bridge/hip-press-bridge-0.2.0.zip",
+  "sha256": "5de320dacf31e57cd77a1e2bbbb1beea716da0351cdf20524eef4c2650a35f55",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "6.8",
+  "released_at": "2026-10-17",
+  "changelog_html": "<h4>0.2.0</h4><ul><li>Kendini güncelliyor: yeni sürümler plugin.byhip.studio'dan gelir; Eklentiler sayfasında WordPress'in &quot;Şimdi güncelle&quot; düğmesi çıkar ve otomatik güncelleme açıktır.</li><li>Paket yalnız plugin.byhip.studio'dan ve SHA-256 özeti tutarsa kurulur.</li><li>hip.space için sürüm bilgisi (<code>hip-press/v1/bridge</code>) ve &quot;şimdi güncelle&quot; (<code>hip-press/v1/bridge/update</code>) uç noktaları.</li></ul><h4>0.1.0</h4><ul><li>Taslakların SEO bilgileri (Rank Math başlık, açıklama, odak anahtar kelime) ve kısa adres.</li></ul>"
+}
