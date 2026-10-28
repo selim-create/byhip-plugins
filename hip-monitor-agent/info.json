@@ -1,0 +1,12 @@
+{
+  "name": "HIP Monitor Agent",
+  "slug": "hip-monitor-agent",
+  "version": "0.2.0",
+  "download_url": "https://plugin.byhip.studio/hip-monitor-agent/hip-monitor-agent-0.2.0.zip",
+  "sha256": "bab423bb5d56483439e77c408314ed7b9080117bc9d284179a670ba7a78e77b3",
+  "requires": "6.2",
+  "requires_php": "7.4",
+  "tested": "6.8",
+  "released_at": "2026-10-27",
+  "changelog_html": "<h4>0.2.0</h4><ul><li>Bağımsız sürüm kontrolü ve otomatik güncelleme; yalnızca plugin.byhip.studio/hip-monitor-agent adresinden paket kabul edilir.</li><li>Paket SHA-256 bütünlüğü doğrulanmadan yüklenmez.</li><li>Mevcut HIP Control eşleştirme anahtarı ve salt okunur sağlık endpoint'i korunur.</li></ul><h4>0.1.0</h4><ul><li>İmzalı ve salt okunur WordPress sağlık bilgileri.</li></ul>"
+}
